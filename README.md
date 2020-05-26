@@ -10,5 +10,5 @@
 <li>Exiting a program: process.exit()</li>  
   <li>Importing modules: the require() function</li>
   <li>Default exports: module.exports = <expression to export></li>
-<li>Named exports: exports.<namespace> = <expression to export></li>
+<li>Named exports:  exports.<namespace> = <expression to export> </li>
 </ul>
